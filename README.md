@@ -65,4 +65,4 @@ portfolio/
 └── README.md
 -----
 
-<p align="center"> Made with ❤️ by <b>Riya Jain</b> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/> </p> ```
+<p align="center"> Made with ❤️ by <b>Riya Jain</b> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/> </p>
