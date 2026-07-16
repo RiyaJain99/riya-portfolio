@@ -14,7 +14,7 @@
 
 ## 🌐 Live Website
 
-👉 **[Visit Portfolio](https://riya-portfolio-2y6zrowmi-jainriya9705-3948s-projects.vercel.app/)**
+👉 **[Visit Portfolio](https://riya-portfolio-27alze725-jainriya9705-3948s-projects.vercel.app/)**
 
 ---
 
