@@ -5,7 +5,7 @@ export const SITE = {
   openTo: "OPEN TO — FULL-TIME ROLES & 2026 COLLABS",
   email: "jainriya9705@gmail.com",
   github: "https://github.com/RiyaJain99",
-  linkedin: "https://www.linkedin.com/in/riya-jain",
+  linkedin: "https://www.linkedin.com/in/riya-jain-702b7b2b6/",
 };
 
 export const NAV_LINKS = [
@@ -24,7 +24,7 @@ export const SOCIAL_LINKS = [
   {
     label: "LinkedIn",
     href: SITE.linkedin,
-    subtext: "linkedin.com/in/riya-jain",
+    subtext: "linkedin.com/in/riya-jain-702b7b2b6",
   },
   {
     label: "Email",
