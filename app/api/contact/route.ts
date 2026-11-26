@@ -93,7 +93,7 @@ export async function POST(request: Request) {
           <p style="color:#a1a1aa;line-height:1.75;margin:0">
             In the meantime, feel free to check out my work on
             <a href="https://github.com/RiyaJain99" style="color:#2dd4bf">GitHub</a> or connect on
-            <a href="https://www.linkedin.com/in/riya-jain" style="color:#2dd4bf">LinkedIn</a>.
+            <a href="https://www.linkedin.com/in/riya-jain-702b7b2b6/" style="color:#2dd4bf">LinkedIn</a>.
           </p>
           <hr style="border:none;border-top:1px solid #27272a;margin:28px 0"/>
           <p style="margin:0;font-size:12px;color:#52525b;font-family:monospace">
